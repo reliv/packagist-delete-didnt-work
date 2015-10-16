@@ -1,0 +1,41 @@
+{
+  "name": "rcm/packist-delete-didnt-work-dont-use-this-use-rcm-core",
+  "description": "packist-delete-didnt-work-dont-use-this-use-rcm-core",
+  "type": "library",
+  "license": "BSD",
+  "keywords": [
+    "zf2",
+    "config",
+    "factories",
+    "service",
+    "manager",
+    "dependancy",
+    "injection",
+    "zend",
+    "framework",
+    "DI",
+    "container",
+    "configuration",
+    "closures"
+  ],
+  "homepage": "https://github.com/rodmcnew",
+  "authors": [
+    {
+      "name": "Rod McNew",
+      "homepage": "https://github.com/rodmcnew"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": ">4.0",
+    "zendframework/zend-servicemanager": ">2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Reliv\\FactoriesAsConfiguration\\": "src/",
+      "Reliv\\FactoriesAsConfiguration\\Test\\": "test/"
+    }
+  }
+}
