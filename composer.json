@@ -1,6 +1,6 @@
 {
-  "name": "rcm/packist-delete-didnt-work-dont-use-this-use-rcm-core",
-  "description": "packist-delete-didnt-work-dont-use-this-use-rcm-core",
+  "name": "rcm/we-tried-to-delete-this-package-but-packgist-wouldnt-let-us",
+  "description": "we-tried-to-delete-this-package-but-packgist-wouldnt-let-us",
   "type": "library",
   "license": "BSD",
   "keywords": [
